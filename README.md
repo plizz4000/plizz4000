@@ -22,10 +22,10 @@
 
 | Platform | ID |
 |----------|-----|
-| X | [@plizz4000](https://x.com/plizz4000) |
-| Instagram | [@plizz4000](https://www.instagram.com/plizz4000/) |
-| TikTok | [@plizz4000](https://www.tiktok.com/@plizz4000) |
-| YouTube | [@user-plizz](https://www.youtube.com/@user-plizz) |
+| X | |
+| Instagram |  |
+| TikTok | |
+| YouTube |  |
 
 ---
 
