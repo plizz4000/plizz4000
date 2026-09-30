@@ -13,7 +13,7 @@
 | 📊 評価 | 写真・自己紹介・刺さり度を10点満点で採点 |
 | 🪄 戦略 | ハイスペック / ライト / フッカル 3層分析 |
 | ♾️ 価格 | ¥4,980 買い切り・再評価無制限 |
-| 🔗 URL | https://luxmatch-omega.vercel.app/lp.html |
+| 🔗 URL | https://luxmatch-omega.vercel.app/lp.htm |
 | 🆓 無料お試し | https://luxmatch-omega.vercel.app/invite.html |
 
 ---
